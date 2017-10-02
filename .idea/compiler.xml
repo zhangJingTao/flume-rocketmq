@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="rocketmq-flume-sink" />
+        <module name="rocketmq-flume-source" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="rocketmq-flume" target="1.6" />
+      <module name="rocketmq-flume-sink" target="1.6" />
+      <module name="rocketmq-flume-source" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

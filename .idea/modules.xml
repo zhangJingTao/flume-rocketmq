@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-flume.iml" filepath="$PROJECT_DIR$/rocketmq-flume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-flume-sink/rocketmq-flume-sink.iml" filepath="$PROJECT_DIR$/rocketmq-flume-sink/rocketmq-flume-sink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-flume-source/rocketmq-flume-source.iml" filepath="$PROJECT_DIR$/rocketmq-flume-source/rocketmq-flume-source.iml" />
+    </modules>
+  </component>
+</project>
